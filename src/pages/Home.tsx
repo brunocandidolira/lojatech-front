@@ -15,11 +15,7 @@ export function Home() {
         <Categories />
 
         <section className="mt-12">
-          <div className="mb-6 flex items-center justify-between">
-            <h2 className="text-2xl font-bold">
-              Produtos em destaque
-            </h2>
-          </div>
+
         </section>
       <ListProduct />
          
