@@ -2,7 +2,7 @@ import { Header } from "../components/Header/Header";
 import { Banner } from "../components/Banner/banner";
 import { Categories } from "../components/Categories/Categories";
 import { Footer } from "../components/Footer/Footer";
-import { ListProduct } from "../components/List-product/List-product";
+import { ListProduct } from "../components/list-product/List-product";
 
 export function Home() {
  
